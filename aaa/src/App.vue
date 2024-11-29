@@ -1,5 +1,7 @@
 <script lang="ts" setup>
-const;
+import ref from 'vue';
+
+const tittle = ref();
 </script>
 
 <template></template>
